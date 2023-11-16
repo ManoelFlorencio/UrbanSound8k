@@ -14,7 +14,7 @@ Explicando mais detalhadamente, esta base de dados é constituída de 8732 áudi
 
 As categorias dos sons presentes nesta base de dados estão distribuídos da seguinte forma:
 
-: Tabela 1 - Número de instâncias por categoria
+Tabela 1 : Número de instâncias por categoria
 Categoria | Número de Instâncias
 -- | --
 Ar-condicionado | 1000
@@ -61,6 +61,7 @@ Na Tabela 2 estão descritos os resultados dos testes de cada modelo na base de 
 
 Entrando em mais detalhes de cada modelo, todos com exceção da Rede Neural foram utilizados na sua configuração padrão do Scikit-learn, sendo que durante a inicialização não foram ajustados parâmetros ou hiper-parâmetros de nenhum e em relação a Rede Neural sua arquitetura está definida na Figura 5.
 
+Tabela 2 : Desempenho dos modelos inteligentes no conjunto de teste
 Modelo |Acurácia (%) |Precisão (%) |Revocação (%) |F1-Score (%)
 --- | --- | --- | --- | ---
 Árvore de Decisão |68.92% |68.85% |67.73% |68.12%
