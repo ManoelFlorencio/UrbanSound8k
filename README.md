@@ -1,8 +1,8 @@
 # 1. Introdução
                
-               O uso da captura do áudio para o fim de monitoramento tem diversas vantagens, como por exemplo requer menos sensores, já que pode ser usado na perspectiva do uso exclusivo do microfone sendo que este sensor fica entre os 2 com maior importância durante a detecção dos tipos mais variados de eventos, atrás apenas da câmeras.
+O uso da captura do áudio para o fim de monitoramento tem diversas vantagens, como por exemplo requer menos sensores, já que pode ser usado na perspectiva do uso exclusivo do microfone sendo que este sensor fica entre os 2 com maior importância durante a detecção dos tipos mais variados de eventos, atrás apenas da câmeras.
                
-               Monitoramento de ambientes e classificação de eventos sonoros ainda não é uma tarefa fácil de ser resolvida, tanto que desde 2013 plataformas como o DCase e o Kaggle propõem competições na área de classificação de sons para que pesquisadores da comunidade possam realizar trabalhos e avançar o estado da arte na área.
+Monitoramento de ambientes e classificação de eventos sonoros ainda não é uma tarefa fácil de ser resolvida, tanto que desde 2013 plataformas como o DCase e o Kaggle propõem competições na área de classificação de sons para que pesquisadores da comunidade possam realizar trabalhos e avançar o estado da arte na área.
 
 Uma dessas competições foi a Urban Sound 8K que propõe o uso de uma base de dados composta de áudios rotulados em 10 categorias diferentes relacionados a sons urbanos.
 
@@ -15,25 +15,15 @@ Explicando mais detalhadamente, esta base de dados é constituída de 8732 áudi
 As categorias dos sons presentes nesta base de dados estão distribuídos da seguinte forma:
 
 Categoria | Número de Instâncias
---- | ---
 Ar-condicionado | 1000
---- | ---
 Buzina de carro 429
---- | ---
 Crianças brincando | 1000
---- | ---
 Latido de cachorro | 1000
---- | ---
 Furadeira | 1000
---- | ---
 Sons de motor | 1000
---- | ---
 Tiro de arma de fogo | 374
---- | ---
 Som de marreta | 1000
---- | ---
 Sirene | 929
---- | ---
 Música de rua | 1000
       
 Para termos de visualização podemos carregar um desses arquivos de áudios e plotar o sinal, para isto foi selecionado um sinal da categoria marreta a seguir:
