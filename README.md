@@ -14,6 +14,7 @@ Explicando mais detalhadamente, esta base de dados é constituída de 8732 áudi
 
 As categorias dos sons presentes nesta base de dados estão distribuídos da seguinte forma:
 
+: Tabela 1 - Número de instâncias por categoria
 Categoria | Número de Instâncias
 -- | --
 Ar-condicionado | 1000
@@ -26,7 +27,7 @@ Tiro de arma de fogo | 374
 Som de marreta | 1000
 Sirene | 929
 Música de rua | 1000
-: Tabela 1 - Número de instâncias por categoria
+
       
 Para termos de visualização podemos carregar um desses arquivos de áudios e plotar o sinal, para isto foi selecionado um sinal da categoria marreta a seguir:
 
