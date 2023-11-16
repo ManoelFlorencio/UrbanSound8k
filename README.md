@@ -15,6 +15,7 @@ Explicando mais detalhadamente, esta base de dados é constituída de 8732 áudi
 As categorias dos sons presentes nesta base de dados estão distribuídos da seguinte forma:
 
 Categoria | Número de Instâncias
+-- | --
 Ar-condicionado | 1000
 Buzina de carro 429
 Crianças brincando | 1000
