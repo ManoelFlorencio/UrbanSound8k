@@ -63,6 +63,8 @@ Na Tabela 2 estão descritos os resultados dos testes de cada modelo na base de 
 
 Entrando em mais detalhes de cada modelo, todos com exceção da Rede Neural foram utilizados na sua configuração padrão do Scikit-learn, sendo que durante a inicialização não foram ajustados parâmetros ou hiper-parâmetros de nenhum e em relação a Rede Neural sua arquitetura está definida na Figura 5.
 
+![NNArchitecture](nn_architecture.png)
+
 Tabela 2 : Desempenho dos modelos inteligentes no conjunto de teste
 Modelo |Acurácia (%) |Precisão (%) |Revocação (%) |F1-Score (%)
 --- | --- | --- | --- | ---
