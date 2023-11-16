@@ -31,7 +31,7 @@ Música de rua | 1000
       
 Para termos de visualização podemos carregar um desses arquivos de áudios e plotar o sinal, para isto foi selecionado um sinal da categoria marreta a seguir:
 
-![Exemplo de Áudio](AudioExample.png)
+![AudioExample](AudioExample.png)
 
 # 3. Ferramentas utilizadas
 
