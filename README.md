@@ -17,7 +17,7 @@ As categorias dos sons presentes nesta base de dados estão distribuídos da seg
 Categoria | Número de Instâncias
 -- | --
 Ar-condicionado | 1000
-Buzina de carro 429
+Buzina de carro | 429
 Crianças brincando | 1000
 Latido de cachorro | 1000
 Furadeira | 1000
