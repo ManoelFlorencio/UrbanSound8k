@@ -31,8 +31,6 @@ Música de rua | 1000
       
 Para termos de visualização podemos carregar um desses arquivos de áudios e plotar o sinal, para isto foi selecionado um sinal da categoria marreta a seguir:
 
-Figura 1: Exemplo de Áudio
-
 ![AudioExample](AudioExample.png)
 
 # 3. Ferramentas utilizadas
@@ -63,9 +61,7 @@ Os testes realizados foram conduzidos da seguinte forma: (1) carregamento dos 87
 
 Na Tabela 2 estão descritos os resultados dos testes de cada modelo na base de teste, sendo que o modelo que obteve os melhores resultados foi o modelo de Floresta Aleatória chegando num F1-Score de 87.63%.
 
-Entrando em mais detalhes de cada modelo, todos com exceção da Rede Neural foram utilizados na sua configuração padrão do Scikit-learn, sendo que durante a inicialização não foram ajustados parâmetros ou hiper-parâmetros de nenhum e em relação a Rede Neural sua arquitetura está definida na Figura 2.
-
-Figura 2: Arquitetura da Rede Neural Artificial utilizada
+Entrando em mais detalhes de cada modelo, todos com exceção da Rede Neural foram utilizados na sua configuração padrão do Scikit-learn, sendo que durante a inicialização não foram ajustados parâmetros ou hiper-parâmetros de nenhum e em relação a Rede Neural sua arquitetura está definida na figura a seguir.
 
 ![NNArchitecture](nn_architecture.png)
 
